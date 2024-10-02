@@ -1,4 +1,4 @@
-```md
+
 # Flutter Login Page
 
 A simple, responsive login page built using **Flutter**. This project demonstrates how to build a mobile application with a **login** and **registration** page. The app is designed to be responsive and runs across multiple devices, such as web browsers, Android, and iOS platforms. It also provides an introduction to **Flutter's Material Design** and how to implement UI elements effectively.
@@ -125,4 +125,3 @@ Contributions are welcome! If you’d like to contribute to this project, feel f
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-```
